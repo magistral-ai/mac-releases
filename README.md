@@ -125,4 +125,4 @@ Consultez la [licence](./LICENSE) pour les conditions d'utilisation complètes.
 
 Ce logiciel est distribué sous licence propriétaire. Voir [LICENSE](./LICENSE).
 
-© 2025–2026 Magistral AI. Tous droits réservés.
+© 2025–2026 GIANTZ. Tous droits réservés.

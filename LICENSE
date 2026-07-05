@@ -1,7 +1,7 @@
 LICENCE D'UTILISATION MAGISTRAL AI
 Version 1.0 — 2025
 
-Copyright © 2025–2026 Magistral AI. Tous droits réservés.
+Copyright © 2025–2026 GIANTZ. Tous droits réservés.
 
 ---
 
@@ -17,11 +17,11 @@ propre abonnement ou quota.
 
 ARTICLE 1 — CONCESSION DE LICENCE
 
-Magistral AI concède à l'utilisateur final une licence personnelle, non exclusive,
+GIANTZ concède à l'utilisateur final une licence personnelle, non exclusive,
 non transférable et révocable lui permettant d'installer et d'utiliser Magistral AI
 sur ses propres appareils, à des fins personnelles ou professionnelles internes.
 
-Sont interdits sans autorisation écrite préalable de Magistral AI :
+Sont interdits sans autorisation écrite préalable de GIANTZ :
 - la redistribution, la revente ou la mise à disposition du logiciel à des tiers ;
 - la modification, la décompilation ou l'ingénierie inverse du logiciel ;
 - l'exploitation commerciale du logiciel en tant que service (SaaS, rebranding, etc.).
@@ -39,7 +39,7 @@ notamment mais sans s'y limiter :
   - Tout autre fournisseur de modèle de langage (LLM) susceptible d'être intégré
     dans des versions futures de l'application.
 
-Magistral AI n'est pas affilié à ces fournisseurs et n'exerce aucun contrôle sur :
+GIANTZ n'est pas affilié à ces fournisseurs et n'exerce aucun contrôle sur :
 
   a) leurs conditions générales d'utilisation, leurs politiques tarifaires, leurs
      quotas ou leurs restrictions d'usage ;
@@ -49,7 +49,7 @@ Magistral AI n'est pas affilié à ces fournisseurs et n'exerce aucun contrôle 
   c) leurs politiques de confidentialité et le traitement des données soumises
      à leurs modèles.
 
-Magistral AI ne saurait être tenu responsable de toute impossibilité d'utiliser
+GIANTZ ne saurait être tenu responsable de toute impossibilité d'utiliser
 Magistral AI résultant d'un changement de politique, d'une interruption de service
 ou d'une modification technique décidée unilatéralement par l'un de ces fournisseurs.
 L'utilisateur reconnaît assumer seul le risque lié à la dépendance envers ces
@@ -67,7 +67,7 @@ avec l'authentification et les identifiants propres à l'utilisateur (compte Cla
 clé API Anthropic, ou tout autre credential configuré par l'utilisateur).
 
 L'utilisateur est le seul titulaire du contrat d'abonnement ou du compte qui autorise
-ces traitements. Magistral AI ne collecte pas, ne stocke pas, ne transmet pas et
+ces traitements. GIANTZ ne collecte pas, ne stocke pas, ne transmet pas et
 n'a pas accès aux données soumises aux modèles d'IA via Magistral AI.
 
 3.2  DONNÉES TRANSMISES AUX FOURNISSEURS D'IA
@@ -79,11 +79,11 @@ générales et à la politique de confidentialité de ce fournisseur.
 
 Le traitement, le stockage éventuel, la conservation ou l'utilisation de ces données
 par le fournisseur d'IA sont régis exclusivement par les politiques dudit fournisseur,
-et non par Magistral AI.
+et non par GIANTZ.
 
 L'utilisateur reconnaît et accepte que :
 
-  a) Magistral AI ne peut pas être tenu responsable du traitement des données
+  a) GIANTZ ne peut pas être tenu responsable du traitement des données
      par les fournisseurs d'IA tiers ;
   b) il lui appartient de vérifier et d'accepter les conditions de confidentialité
      du fournisseur d'IA qu'il utilise avant de soumettre des données sensibles
@@ -110,7 +110,7 @@ LE LOGICIEL EST FOURNI « EN L'ÉTAT », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE 
 IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER LES GARANTIES DE QUALITÉ MARCHANDE,
 D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
 
-Magistral AI ne garantit pas que le logiciel sera exempt d'erreurs, qu'il
+GIANTZ ne garantit pas que le logiciel sera exempt d'erreurs, qu'il
 fonctionnera de manière ininterrompue ou qu'il sera compatible avec toute version
 future des outils tiers dont il dépend.
 
@@ -118,10 +118,10 @@ future des outils tiers dont il dépend.
 
 ARTICLE 5 — LIMITATION DE RESPONSABILITÉ
 
-En aucun cas Magistral AI ne pourra être tenu responsable de dommages directs,
+En aucun cas GIANTZ ne pourra être tenu responsable de dommages directs,
 indirects, accessoires, spéciaux, exemplaires ou consécutifs (notamment perte de
 données, perte de revenus, interruption d'activité) résultant de l'utilisation ou
-de l'impossibilité d'utiliser le logiciel, même si Magistral AI a été informé
+de l'impossibilité d'utiliser le logiciel, même si GIANTZ a été informé
 de la possibilité de tels dommages.
 
 ---
