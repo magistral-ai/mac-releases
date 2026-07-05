@@ -1,6 +1,6 @@
-# Licences et attributions tierces — WebhookForge
+# Licences et attributions tierces — Magistral AI
 
-WebhookForge intègre les composants tiers suivants pour la transcription vocale locale.
+Magistral AI intègre les composants tiers suivants pour la transcription vocale locale.
 
 ---
 
@@ -80,4 +80,4 @@ SOFTWARE.
 
 `whisper-cli` (whisper.cpp, MIT) et `ffmpeg` (LGPL/GPL) peuvent être utilisés comme moteur
 de repli s'ils sont déjà installés par l'utilisateur. Ils ne sont ni inclus ni distribués
-avec WebhookForge.
+avec Magistral AI.
